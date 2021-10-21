@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Browser-icon.png</file>
+        <file>Linux-icon.png</file>
+        <file>refresh.png</file>
+        <file>home.png</file>
+    </qresource>
+</RCC>
